@@ -1,2 +1,2 @@
 # Simple-WebDesign-Agency-Project
-Made using HTML,CSS
+A simple landing page made using HTML,CSS
